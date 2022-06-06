@@ -6,7 +6,11 @@ import { useNavigate } from "react-router-dom";
 export default function MenuCreate() {
     
     const navigate = useNavigate();
+<<<<<<< HEAD
     const url = "https://rossrestaurant.azurewebsites.net";
+=======
+    const url = "https://rossandjerry.azurewebsites.net";
+>>>>>>> main
     
 
     const itemNameInput = useRef();

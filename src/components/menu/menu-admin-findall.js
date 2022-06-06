@@ -6,7 +6,11 @@ export default function MenuFindAllAdmin() {
 
     const navigate = useNavigate();
     const [menuBody, setMenuBody] = useState([]);
+<<<<<<< HEAD
     const url = "https://rossrestaurant.azurewebsites.net";
+=======
+    const url = "https://rossandjerry.azurewebsites.net";
+>>>>>>> main
 
     // async function findAllFood() {
     //     try{

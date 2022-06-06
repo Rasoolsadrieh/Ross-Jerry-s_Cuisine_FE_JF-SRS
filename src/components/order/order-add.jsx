@@ -7,7 +7,11 @@ export default function OrderAdd(){
 
     const [menuBody, setMenuBody] = useState([]);
     const navigate = useNavigate();
+<<<<<<< HEAD
     const url = "https://rossrestaurant.azurewebsites.net";
+=======
+    const url = "https://rossandjerry.azurewebsites.net";
+>>>>>>> main
 
     const menuItemInput = useRef();
     const orderDateInput = useRef();

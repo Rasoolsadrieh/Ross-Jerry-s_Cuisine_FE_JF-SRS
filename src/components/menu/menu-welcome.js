@@ -9,7 +9,11 @@ export default function MenuWelcome() {
     const [user, setUser] = useContext(userContext);
     const navigate = useNavigate();
     const [menu, setMenu] = useState(true);
+<<<<<<< HEAD
     const url = "https://rossrestaurant.azurewebsites.net";
+=======
+    const url = "https://rossandjerry.azurewebsites.net";
+>>>>>>> main
 
     useEffect(() => {
         findAll();

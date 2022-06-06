@@ -5,7 +5,11 @@ import { useNavigate } from "react-router-dom";
 export default function CreditCardAdd(){
 
     const navigate = useNavigate();
+<<<<<<< HEAD
     const url = "https://rossrestaurant.azurewebsites.net";
+=======
+    const url = "https://rossandjerry.azurewebsites.net";
+>>>>>>> main
 
     const ccNumberInput = useRef();
     const ccNameInput = useRef();
