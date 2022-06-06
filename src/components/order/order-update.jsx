@@ -5,7 +5,11 @@ import { useNavigate } from "react-router-dom";
 export default function OrderUpdate(){
 
     const navigate = useNavigate();
+<<<<<<< HEAD
+    const url = "https://rossrestaurant.azurewebsites.net";
+=======
     const url = "https://rossandjerry.azurewebsites.net";
+>>>>>>> main
 
     const menuItemInput = useRef();
     const orderDateInput = useRef();

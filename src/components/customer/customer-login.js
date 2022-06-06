@@ -8,7 +8,11 @@ export default function CustomerLogin() {
     const passwordInput = useRef();
     const [user, setUser] = useContext(userContext);
     const navigate = useNavigate();
+<<<<<<< HEAD
+    const url = "https://rossrestaurant.azurewebsites.net";
+=======
     const url = "https://rossandjerry.azurewebsites.net";
+>>>>>>> main
 
     async function login() {
         // Whenever you are getting a useRefs value, make sure it's inside some function call. Otherwise it will
