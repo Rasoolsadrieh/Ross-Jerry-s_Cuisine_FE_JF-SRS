@@ -56,9 +56,3 @@ In this project, we are challenge to learn and implement the use of Hibernate an
 -   [ ] CRUD operations are supported for one or more domain objects via the web application's exposed endpoints
 -   [ ] JDBC logic is abstracted away by hibernate
 -   [ ] Programmatic persistence of entities (basic CRUD support) using hibernate
-
-
-
-
-
->>>>>>> main
